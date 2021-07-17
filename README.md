@@ -6,6 +6,6 @@ This is a project that allows you to generate random passwords with the click of
 contain both uppercase and lowercase letters as well as numbers and special characters.
 
 # Built with
- *HTML
- *CSS
- *JAVASCRIPT (arrays, math.random)
+ * HTML
+ * CSS
+ * JAVASCRIPT (arrays, math.random)
